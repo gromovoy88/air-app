@@ -1,4 +1,8 @@
 # air-app
+# For the application to work, you need to set Weather api key in .env file in root project directory
+##.env example
+API_KEY = '"hereEnterApiKey"'
+
 
 > Entry project.
 

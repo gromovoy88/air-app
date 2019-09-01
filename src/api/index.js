@@ -1,8 +1,10 @@
 import axios from 'axios';
 
+console.log(process.env);
+
 const API_DATA = {
   weatherApiUrl: 'https://api.openweathermap.org/data/2.5/',
-  weatherApiKey: 'eae6cffb103b8a7f292a1498a8f6965a',
+  weatherApiKey: process.env.API_KEY,
 };
 
 /**

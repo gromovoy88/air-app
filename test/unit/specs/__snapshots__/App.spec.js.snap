@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders correctly 1`] = `
+<div
+  id="app"
+>
+  <div
+    class="container"
+  >
+    <header>
+      <span
+        class="logo-wrapper"
+      >
+        <span
+          class="logo"
+        />
+      </span>
+    </header>
+     
+    <section
+      class="content"
+    >
+      <div
+        class="dashboard"
+      >
+        <div
+          class="dashboard-header"
+        >
+          <h2
+            class="dashboard-header__text"
+          >
+            
+            Check the weather!
+          
+          </h2>
+        </div>
+         
+        <div
+          class="dashboard-body"
+        >
+          <!---->
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+`;

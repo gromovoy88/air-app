@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@google/maps": "^0.5.5",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "dotenv": "^8.1.0",
     "geocoder": "^0.2.3",
     "vue": "^2.5.2",
